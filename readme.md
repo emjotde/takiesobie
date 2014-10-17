@@ -7,3 +7,4 @@ MarkDown http://emjotde.github.io
 2. drugi punkt
 3. trzeci punkt
 
+A to jest inna edycja
